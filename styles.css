@@ -1,11 +1,9 @@
 .player{
-    display: inline-block;
     padding: 2%;
-    margin-top: 0%;
 }
 
-.container{
-    text-align: center;
+.container-fluid{
+    display: inline-block;
 }
 
 body{
@@ -25,9 +23,13 @@ h1{
 
 .playernumber{
     font-size: 2rem;
-    font-family: 'Lobster', cursive;
+    font-family: 'Indie Flower', cursive;
 }
 
-body{
-    /* margin-bottom: 28rem; */
+.contain-mar{
+    margin-top: 2rem;
+}
+
+.image{
+    width: 80%;
 }
